@@ -1,11 +1,6 @@
 
 
-<!-- My GitHub stats with Dracula theme ❤️ -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
-</p>
-
----
+ 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com//hedythedev/open-sauced-goals/issues/1) in [hedythedev/open-sauced-goals](https://github.com//hedythedev/open-sauced-goals)
